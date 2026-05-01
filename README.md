@@ -1,4 +1,4 @@
-# 🌀 Hurricane IDALIA Path Prediction
+# Hurricane IDALIA Path Prediction
 
 A data mining project that predicts the track of Hurricane Idalia (2023)
 using machine learning models trained on GIS data from the
